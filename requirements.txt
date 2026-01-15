@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langgraph
+sqlalchemy
+python-dotenv
+pydantic
+groq
+jupyterlab
+ipython
