@@ -9,3 +9,4 @@ groq
 jupyterlab
 ipython
 reportlab
+openpyxl
